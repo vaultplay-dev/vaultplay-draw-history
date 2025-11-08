@@ -1,0 +1,1498 @@
+{
+  "version": "1.0",
+  "competition": {
+    "id": "3",
+    "name": "Example Draw Audit Bundle",
+    "mode": "live"
+  },
+  "draw": {
+    "timestamp": "2025-11-08T22:33:11.314Z",
+    "workerVersion": "VaultPlay Draw v1.4",
+    "endpoint": "/startdraw"
+  },
+  "randomness": {
+    "value": "ba08ab5a92566d46ad56edda2fcebae4a2d011ff51795f31e1262df1fae0383c",
+    "source": "drand",
+    "round": 5573672,
+    "timestamp": "2025-11-08T22:33:11.997Z",
+    "verificationUrl": "https://api.drand.sh/public/5573672",
+    "fetchedByWorker": true
+  },
+  "entries": {
+    "total": 36,
+    "qualified": 24,
+    "disqualified": 12,
+    "list": [
+      {
+        "entryCode": "VP-TRH1N-UKWFG-GMDK",
+        "rank": 1,
+        "gamertag": "VaultAgent77",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:17:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was Hearthstone released?",
+          "answerGiven": "2014",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VMXZQ-1GYTP-NS4B",
+        "rank": 2,
+        "gamertag": "Vaul***e88",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:00:17.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-3N3YU-WRZAR-A2FW",
+        "rank": 3,
+        "gamertag": "Vaul***r10",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:09:45.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South West"
+        },
+        "quiz": {
+          "question": "In the video game Overwatch, which playable character is infamous for saying \"It's high noon.\"?",
+          "answerGiven": "McCree",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-IC4XV-PAXXT-6DPQ",
+        "rank": 4,
+        "gamertag": "Vault_Hunter64",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-26T23:42:46.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was the game \"FTL: Faster Than Light\" released?",
+          "answerGiven": "2012",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-LRZFR-DMFWD-U1GV",
+        "rank": 5,
+        "gamertag": "VaultBrawler16",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:44:42.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South West"
+        },
+        "quiz": {
+          "question": "In the video game Overwatch, which playable character is infamous for saying \"It's high noon.\"?",
+          "answerGiven": "McCree",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-JZ2PD-I4LPX-HOEX",
+        "rank": 6,
+        "gamertag": "Vaul***r38",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:09:44.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South West"
+        },
+        "quiz": {
+          "question": "In the video game Overwatch, which playable character is infamous for saying \"It's high noon.\"?",
+          "answerGiven": "McCree",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VETB9-UUQHR-8QFC",
+        "rank": 7,
+        "gamertag": "Vaul***n17",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:16:10.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Who is Sonic's sidekick?",
+          "answerGiven": "Tails",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-LFQZE-2VAIG-G8JL",
+        "rank": 8,
+        "gamertag": "Vaul***r21",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:04:27.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-T1NA6-QDD5C-KQXB",
+        "rank": 9,
+        "gamertag": "Vaul***r69",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:44:41.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In World of Warcraft, What was the name of the spell that caused a plague that famously killed millions of players in 2005?",
+          "answerGiven": "Corrupted Blood",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-MDWEJ-YAKWH-I81Y",
+        "rank": 10,
+        "gamertag": "VaultSniperX",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T13:57:20.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "\"Tomb Raider\" icon Lara Croft was originally called...",
+          "answerGiven": "Laura Cruz",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-HPMQL-ZNRY2-OVAB",
+        "rank": 11,
+        "gamertag": "Vaul***e72",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T07:40:26.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "What company developed the Xbox line of video game consoles?",
+          "answerGiven": "Microsoft",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-LUOJF-O5QCK-V1C9",
+        "rank": 12,
+        "gamertag": "Vaul***t47",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-30T18:05:56.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "What is the name of the playable character in the 2018 video game Deltarune: Chapter 1?",
+          "answerGiven": "Kris",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VHQEK-6DGNC-99GM",
+        "rank": 13,
+        "gamertag": "VaultNova66",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:16:11.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Who is Sonic's sidekick?",
+          "answerGiven": "Tails",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-FUY9W-M980D-ARHF",
+        "rank": 14,
+        "gamertag": "Vaul***r22",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-30T18:05:57.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "What is the name of the playable character in the 2018 video game Deltarune: Chapter 1?",
+          "answerGiven": "Kris",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-ECMWE-MJCOH-DXHZ",
+        "rank": 15,
+        "gamertag": "Vaul***l93",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:54:10.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "When was the game 'Portal 2' released?",
+          "answerGiven": "2011",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-4QXL8-FGOJG-ALAC",
+        "rank": 16,
+        "gamertag": "Vaul***r31",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:30:24.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Who in this list is one of the co-founders of Valve?",
+          "answerGiven": "Gabe Newell",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VXMGT-ZNOMU-HVHN",
+        "rank": 17,
+        "gamertag": "Vaul***z03",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:02:41.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "Who are the original creators of Rachet & Clank?",
+          "answerGiven": "Insomniac Games",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-S2YFD-8YRLW-KLLK",
+        "rank": 18,
+        "gamertag": "Vaul***r91",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:02:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",
+          "answerGiven": "Multiplayer Online Battle Arena (MOBA)",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-27FOL-MSODN-WIUN",
+        "rank": 19,
+        "gamertag": "VaultFury09",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:17:54.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was Hearthstone released?",
+          "answerGiven": "2014",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-VTXGI-SZXHC-SJUE",
+        "rank": 20,
+        "gamertag": "Vaul***t07",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:04:25.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-R9V8F-NF5LI-PGKW",
+        "rank": 21,
+        "gamertag": "VaultGuardian14",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:02:25.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "What was the first game in the \"Battlefield\" series?",
+          "answerGiven": "Battlefield 1942",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-XZ0C0-KPXR7-4FGL",
+        "rank": 22,
+        "gamertag": "VaultHunter711",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-26T23:42:46.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was the game \"FTL: Faster Than Light\" released?",
+          "answerGiven": "2012",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-MRPT8-ZY34S-8OOS",
+        "rank": 23,
+        "gamertag": "Vaul***n99",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:04:28.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-FJ7UX-BFKQG-KLPU",
+        "rank": 24,
+        "gamertag": "Vaul***r13",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-28T00:23:35.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+          "answerGiven": "Adam the Clown",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null
+      },
+      {
+        "entryCode": "VP-BETPX-87RPH-GXDF",
+        "rank": null,
+        "gamertag": "Vaul***e23",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:28:13.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "What year was the game Team Fortress 2 released?",
+          "answerGiven": "2005",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-BK0PA-X3COR-7VWN",
+        "rank": null,
+        "gamertag": "Vaul***d55",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:29:18.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East Midlands"
+        },
+        "quiz": {
+          "question": "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
+          "answerGiven": "Hector \"Ming\" Domingo",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-DW5J6-TNSGR-RHW7",
+        "rank": null,
+        "gamertag": "Vaul***r04",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:28:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "What year was the game Team Fortress 2 released?",
+          "answerGiven": "2005",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-DZJJB-4ZDEP-PDVX",
+        "rank": null,
+        "gamertag": "VaultPhantom26",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:03:05.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "In the video game, Half-life, what event started the Half-life universe as we know today?",
+          "answerGiven": "The Black Mesa Nuke",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-GZBR4-YTIKU-UXSF",
+        "rank": null,
+        "gamertag": "Vaul***r81",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:02:50.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the \"Hitman\" series, what is the name of the main character?",
+          "answerGiven": "Agent 27",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-LFU6N-TIMVD-ETFP",
+        "rank": null,
+        "gamertag": "Vaul***owX",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:02:51.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the \"Hitman\" series, what is the name of the main character?",
+          "answerGiven": "Agent 27",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-LYIGT-45H07-3X0D",
+        "rank": null,
+        "gamertag": "VaultChamp92",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T13:52:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+          "answerGiven": "Navy Seals",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-RSPYB-SJIAD-93WJ",
+        "rank": null,
+        "gamertag": "Vaul***r08",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:31:34.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which character was introduced to the Super Smash Bros franchise in Super Smash Bros Melee?",
+          "answerGiven": "Mega Man",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-USMLU-V1DKD-USFJ",
+        "rank": null,
+        "gamertag": "VaultNomad02",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:52:57.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the videogame Bully, what is the protagonist's last name?",
+          "answerGiven": "Crabblesnitch",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-X5FZZ-I3PC7-7Y5S",
+        "rank": null,
+        "gamertag": "Vaul***reX",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T07:40:27.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+          "answerGiven": "Legion",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-XOAM4-AOMAI-CSJU",
+        "rank": null,
+        "gamertag": "Vaul***t19",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T07:38:26.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+          "answerGiven": "Legion",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      },
+      {
+        "entryCode": "VP-ZSZ5T-C75CL-BY8N",
+        "rank": null,
+        "gamertag": "Vaul***t84",
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:48:48.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the video game \"Postal 2\", what is the name of Postal Dude's dog?",
+          "answerGiven": "Duke",
+          "answerCorrect": false
+        },
+        "status": "disqualified",
+        "disqualificationReason": "Quiz answered incorrectly"
+      }
+    ]
+  },
+  "statistics": {
+    "disqualificationReasons": {
+      "Quiz answered incorrectly": 12
+    },
+    "locationDistribution": {
+      "countries": {
+        "GB": 36
+      },
+      "regions": {
+        "England - South East": 18,
+        "England - North East": 4,
+        "England - South West": 3,
+        "England - East of England": 6,
+        "England - London": 4,
+        "England - East Midlands": 1
+      },
+      "countryRegions": {
+        "GB": {
+          "England - South East": 18,
+          "England - North East": 4,
+          "England - South West": 3,
+          "England - East of England": 6,
+          "England - London": 4,
+          "England - East Midlands": 1
+        }
+      }
+    }
+  },
+  "results": {
+    "winner": {
+      "rank": 1,
+      "entryCode": "VP-TRH1N-UKWFG-GMDK",
+      "gamertag": "VaultAgent77",
+      "displayNamePublicly": true,
+      "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+      "entryTimestamp": "2025-10-31T19:17:55.000Z",
+      "location": {
+        "country": "GB",
+        "region": "England - South East"
+      },
+      "quiz": {
+        "question": "In what year was Hearthstone released?",
+        "answerGiven": "2014",
+        "answerCorrect": true
+      },
+      "status": "qualified",
+      "disqualificationReason": null,
+      "score": "115128673208172803939816556627839841180223671395440588994081321548987649807483",
+      "scoreHex": "fe888513d7a55e3c71d811916761c4a91507eb9024a23b4959b47f4f6ea4d47b"
+    },
+    "fullRanking": [
+      {
+        "rank": 1,
+        "entryCode": "VP-TRH1N-UKWFG-GMDK",
+        "gamertag": "VaultAgent77",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:17:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was Hearthstone released?",
+          "answerGiven": "2014",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "115128673208172803939816556627839841180223671395440588994081321548987649807483",
+        "scoreHex": "fe888513d7a55e3c71d811916761c4a91507eb9024a23b4959b47f4f6ea4d47b"
+      },
+      {
+        "rank": 2,
+        "entryCode": "VP-VMXZQ-1GYTP-NS4B",
+        "gamertag": "Vaul***e88",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:00:17.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "110047545881299365841034688027710510599690863398583356441265335270433588144486",
+        "scoreHex": "f34cb424827ce3606b877fb75defb27e7a04f0857c778ef36f9c7d315dda6966"
+      },
+      {
+        "rank": 3,
+        "entryCode": "VP-3N3YU-WRZAR-A2FW",
+        "gamertag": "Vaul***r10",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:09:45.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South West"
+        },
+        "quiz": {
+          "question": "In the video game Overwatch, which playable character is infamous for saying \"It's high noon.\"?",
+          "answerGiven": "McCree",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "104908593379626134038146165581030632093785167844934524191110646942178730490008",
+        "scoreHex": "e7f028de3c9b9dc9570faef0b9633bc7b17fc6fe582e853e62dd734be3cab898"
+      },
+      {
+        "rank": 4,
+        "entryCode": "VP-IC4XV-PAXXT-6DPQ",
+        "gamertag": "Vault_Hunter64",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-26T23:42:46.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was the game \"FTL: Faster Than Light\" released?",
+          "answerGiven": "2012",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "97010779277905797926736598943441982703535508092035672305266608902900258077406",
+        "scoreHex": "d67a27bfce4e2bb6e1022de23fbc469b6c4625cef29f90431271ed71b31e7ade"
+      },
+      {
+        "rank": 5,
+        "entryCode": "VP-LRZFR-DMFWD-U1GV",
+        "gamertag": "VaultBrawler16",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:44:42.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South West"
+        },
+        "quiz": {
+          "question": "In the video game Overwatch, which playable character is infamous for saying \"It's high noon.\"?",
+          "answerGiven": "McCree",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "68767487021143870471907899367771704593095077710303294501834275047413425033702",
+        "scoreHex": "980904b242ede7e9c0d6624741b4a6f50b02b629fe10a4e73d4013cb4e7ed1e6"
+      },
+      {
+        "rank": 6,
+        "entryCode": "VP-JZ2PD-I4LPX-HOEX",
+        "gamertag": "Vaul***r38",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:09:44.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South West"
+        },
+        "quiz": {
+          "question": "In the video game Overwatch, which playable character is infamous for saying \"It's high noon.\"?",
+          "answerGiven": "McCree",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "63228920581137134925696708885216501375959573440589326219603738864636610596073",
+        "scoreHex": "8bca4d03357424edb075165c633080d1a3a7334e59769dbfd19a741673b1cce9"
+      },
+      {
+        "rank": 7,
+        "entryCode": "VP-VETB9-UUQHR-8QFC",
+        "gamertag": "Vaul***n17",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:16:10.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Who is Sonic's sidekick?",
+          "answerGiven": "Tails",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "58020493561776335508180161856139154864219148852072553829060494509528720334762",
+        "scoreHex": "80466f83da447699970e924746c49c17e6f5655c6122dab2a0c1a0300dfbdfaa"
+      },
+      {
+        "rank": 8,
+        "entryCode": "VP-LFQZE-2VAIG-G8JL",
+        "gamertag": "Vaul***r21",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:04:27.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "What is the name of the main character in \"Life is Strange\"?",
+          "answerGiven": "Maxine Caulfield",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "56622675990391858051310974667675129390534078384247699595784446378669138821007",
+        "scoreHex": "7d2f4c8484f90292d1e94051686d7009d227ee4e17b50141c4067e845c74bf8f"
+      },
+      {
+        "rank": 9,
+        "entryCode": "VP-T1NA6-QDD5C-KQXB",
+        "gamertag": "Vaul***r69",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:44:41.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In World of Warcraft, What was the name of the spell that caused a plague that famously killed millions of players in 2005?",
+          "answerGiven": "Corrupted Blood",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "55280330549327337636758242247543033333395376648833008336211821352702186316335",
+        "scoreHex": "7a378eecdb21fa3da5325bcc512eb05259c2cc8604a37e2a14bf05236a8b622f"
+      },
+      {
+        "rank": 10,
+        "entryCode": "VP-MDWEJ-YAKWH-I81Y",
+        "gamertag": "VaultSniperX",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T13:57:20.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "\"Tomb Raider\" icon Lara Croft was originally called...",
+          "answerGiven": "Laura Cruz",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "48926598873828590810626179763048902124030406530844723203032673706151793543963",
+        "scoreHex": "6c2b793ec00df118e7cd390d22eca505dc38d17fe2b9dac796287d287d064b1b"
+      },
+      {
+        "rank": 11,
+        "entryCode": "VP-HPMQL-ZNRY2-OVAB",
+        "gamertag": "Vaul***e72",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T07:40:26.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "What company developed the Xbox line of video game consoles?",
+          "answerGiven": "Microsoft",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "48885746308241637759226471263147902228188613810954516766536846816677059914922",
+        "scoreHex": "6c145a14dfef79c80a34904999e69fdc7e2b02cbdc5136c5b103c7502a286caa"
+      },
+      {
+        "rank": 12,
+        "entryCode": "VP-LUOJF-O5QCK-V1C9",
+        "gamertag": "Vaul***t47",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-30T18:05:56.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "What is the name of the playable character in the 2018 video game Deltarune: Chapter 1?",
+          "answerGiven": "Kris",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "45647448077037200150852460265307741131799130794607933753196328112036245675195",
+        "scoreHex": "64eb8a3fb48f41147a2b15bc263c2de2634505bc2245b8f8b5fd513cf1241cbb"
+      },
+      {
+        "rank": 13,
+        "entryCode": "VP-VHQEK-6DGNC-99GM",
+        "gamertag": "VaultNova66",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:16:11.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Who is Sonic's sidekick?",
+          "answerGiven": "Tails",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "44474627972383564968587214688874801027713461348680055553125847862710100855445",
+        "scoreHex": "6253bf543f3b5d98934c1e00b731c8b3329aa6cae9c9dff8cf33982200508a95"
+      },
+      {
+        "rank": 14,
+        "entryCode": "VP-FUY9W-M980D-ARHF",
+        "gamertag": "Vaul***r22",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-30T18:05:57.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "What is the name of the playable character in the 2018 video game Deltarune: Chapter 1?",
+          "answerGiven": "Kris",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "44067616318182759069113350386514748944483454011060720915420013662390410482550",
+        "scoreHex": "616d630eef74527db9770208d6a3c80ca5d104c4d2a3da744a19fd706d231376"
+      },
+      {
+        "rank": 15,
+        "entryCode": "VP-ECMWE-MJCOH-DXHZ",
+        "gamertag": "Vaul***l93",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:54:10.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "When was the game 'Portal 2' released?",
+          "answerGiven": "2011",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "43992418472584495929166054358781494969861066378492652979103570430167988369394",
+        "scoreHex": "6142d393d23dab04bf2eb9c91377d0f8eacbc32c55daec1817d9433c4f38f7f2"
+      },
+      {
+        "rank": 16,
+        "entryCode": "VP-4QXL8-FGOJG-ALAC",
+        "gamertag": "Vaul***r31",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:30:24.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Who in this list is one of the co-founders of Valve?",
+          "answerGiven": "Gabe Newell",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "42117779587537141304432311862260226794151582027076347267027149853923817149367",
+        "scoreHex": "5d1dd186fe702893647a35f7dd045b913b8e40cfb1ad069cd864b1ba3cbdd3b7"
+      },
+      {
+        "rank": 17,
+        "entryCode": "VP-VXMGT-ZNOMU-HVHN",
+        "gamertag": "Vaul***z03",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:02:41.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "Who are the original creators of Rachet & Clank?",
+          "answerGiven": "Insomniac Games",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "41543634620692200992389416656501469749686051534533270280217120628554918342998",
+        "scoreHex": "5bd8dd2a91dffe5a5534197f3262cdbbc827c73ec822e7a5a5462e2ace713156"
+      },
+      {
+        "rank": 18,
+        "entryCode": "VP-S2YFD-8YRLW-KLLK",
+        "gamertag": "Vaul***r91",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:02:55.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",
+          "answerGiven": "Multiplayer Online Battle Arena (MOBA)",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "40855280694317006069224729604452089537549526967547591488502821746103960871472",
+        "scoreHex": "5a5344f864eb6833860bc0100b3acfe8eaa92f1b263486c5de0b2023143e2230"
+      },
+      {
+        "rank": 19,
+        "entryCode": "VP-27FOL-MSODN-WIUN",
+        "gamertag": "VaultFury09",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:17:54.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was Hearthstone released?",
+          "answerGiven": "2014",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "39838026881951311934941919759454643950434407195925367754872796552599003478105",
+        "scoreHex": "5813862f6af7fb9f397eed888c089de2fba8d8e66758edb3a78f404b0b643859"
+      },
+      {
+        "rank": 20,
+        "entryCode": "VP-VTXGI-SZXHC-SJUE",
+        "gamertag": "Vaul***t07",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:04:25.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "39659723469009155476712791933585604630766478535198838492331319252692065893736",
+        "scoreHex": "57ae9ba642138541784802944c5118f4e26810c13943fc0178cafc4347f8bd68"
+      },
+      {
+        "rank": 21,
+        "entryCode": "VP-R9V8F-NF5LI-PGKW",
+        "gamertag": "VaultGuardian14",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:02:25.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "What was the first game in the \"Battlefield\" series?",
+          "answerGiven": "Battlefield 1942",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "38946601193272045389865274737479274824062767906753812200801728111621137735819",
+        "scoreHex": "561afebef1cddb125c41e2ca5ecfcfcbe12cc4d87844862a1152811ba7a3a08b"
+      },
+      {
+        "rank": 22,
+        "entryCode": "VP-XZ0C0-KPXR7-4FGL",
+        "gamertag": "VaultHunter711",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-26T23:42:46.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In what year was the game \"FTL: Faster Than Light\" released?",
+          "answerGiven": "2012",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "24841355387040990585034259475152189775594883140350237761527359695244227024841",
+        "scoreHex": "36ebb579ee2491f131ba1b58d416c221b0fe4e85e072745a16fd016fd90897c9"
+      },
+      {
+        "rank": 23,
+        "entryCode": "VP-MRPT8-ZY34S-8OOS",
+        "gamertag": "Vaul***n99",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T14:04:28.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+          "answerGiven": "Halo",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "20934289638465355130975822480010833763741068618028534529631618362191164461994",
+        "scoreHex": "2e486356df67ba2c598461292c5cafe9191adfc70847da8423dca92350ffd3aa"
+      },
+      {
+        "rank": 24,
+        "entryCode": "VP-FJ7UX-BFKQG-KLPU",
+        "gamertag": "Vaul***r13",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-28T00:23:35.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+          "answerGiven": "Adam the Clown",
+          "answerCorrect": true
+        },
+        "status": "qualified",
+        "disqualificationReason": null,
+        "score": "8428824963059648397333954301350651759592819895587694154658137940923053888096",
+        "scoreHex": "12a28bbdf5e25c8922191ad82f79ba95d2d8a9dceac9f93d5de7a8a43fe5d260"
+      },
+      {
+        "entryCode": "VP-BETPX-87RPH-GXDF",
+        "status": "disqualified",
+        "gamertag": "Vaul***e23",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:28:13.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "What year was the game Team Fortress 2 released?",
+          "answerGiven": "2005",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "83075665226625553576224222098135332826654474445619502564518083477304078159632",
+        "scoreHex": "b7ab29044f7c08b9504493ae2d0f142125e9120db6b6b1338e2eab718b3acf10",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-BK0PA-X3COR-7VWN",
+        "status": "disqualified",
+        "gamertag": "Vaul***d55",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:29:18.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East Midlands"
+        },
+        "quiz": {
+          "question": "In Need for Speed: Most Wanted (2005), what was the name of the main antagonist?",
+          "answerGiven": "Hector \"Ming\" Domingo",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "31718958827402669002310957673944341644658842531750161824207581980091390095351",
+        "scoreHex": "46204b63c2915d60e81c4a1a748b917f06e9d3c67a24d3a6f43450c0e383eff7",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-DW5J6-TNSGR-RHW7",
+        "status": "disqualified",
+        "gamertag": "Vaul***r04",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:28:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "What year was the game Team Fortress 2 released?",
+          "answerGiven": "2005",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "111763707084001177879288969524062190400659362652372536377334812349481744502304",
+        "scoreHex": "f71804396563342ca4a9cb0b7be8aa69a23194e7ada6f6d7fdf4ff4f2af28e20",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-DZJJB-4ZDEP-PDVX",
+        "status": "disqualified",
+        "gamertag": "VaultPhantom26",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T18:03:05.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - London"
+        },
+        "quiz": {
+          "question": "In the video game, Half-life, what event started the Half-life universe as we know today?",
+          "answerGiven": "The Black Mesa Nuke",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "12477209193354940871860412860223605020600183914771666678776903751804592209681",
+        "scoreHex": "1b95d9a2d584d0ea58d2b81ea81ffa2932d5987784d0e71a89786fbb72b63f11",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-GZBR4-YTIKU-UXSF",
+        "status": "disqualified",
+        "gamertag": "Vaul***r81",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:02:50.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the \"Hitman\" series, what is the name of the main character?",
+          "answerGiven": "Agent 27",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "13812867604038483994977356436769395987630982396920424786452383874163206498162",
+        "scoreHex": "1e89ce56c15bb6eb27cd2b636c2511d7cb556c3074e0a7b3e948ca48fc2fa772",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-LFU6N-TIMVD-ETFP",
+        "status": "disqualified",
+        "gamertag": "Vaul***owX",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-31T19:02:51.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the \"Hitman\" series, what is the name of the main character?",
+          "answerGiven": "Agent 27",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "90121685723077321166153198857180104994008827345052817150409033865548481723532",
+        "scoreHex": "c73f1105f18dea561ae46e6acddcc91d94959ff7ef258f1e7f30c5bc84e47c8c",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-LYIGT-45H07-3X0D",
+        "status": "disqualified",
+        "gamertag": "VaultChamp92",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-10-27T13:52:04.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - North East"
+        },
+        "quiz": {
+          "question": "In the Video Game, Half-life, what type of US military force starts clearing out the Black Mesa Research Facility?",
+          "answerGiven": "Navy Seals",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "59837569789789397807008775229515977025756208844933093710645084475564122391682",
+        "scoreHex": "844add4310933cd10b3cd37d5ecdf9bf58d4c23094f68566ed39bdf82b6b4482",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-RSPYB-SJIAD-93WJ",
+        "status": "disqualified",
+        "gamertag": "Vaul***r08",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T00:31:34.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - East of England"
+        },
+        "quiz": {
+          "question": "Which character was introduced to the Super Smash Bros franchise in Super Smash Bros Melee?",
+          "answerGiven": "Mega Man",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "34114070523992752761414144487019289420143252592519434557032308680764391297681",
+        "scoreHex": "4b6be13220335e70a556045f1ab9271ac678483edf0fab0813e8cf50a72a1291",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-USMLU-V1DKD-USFJ",
+        "status": "disqualified",
+        "gamertag": "VaultNomad02",
+        "displayNamePublicly": true,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:52:57.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the videogame Bully, what is the protagonist's last name?",
+          "answerGiven": "Crabblesnitch",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "66347986070466149736621462863764678090389191259542011029031389233079535168841",
+        "scoreHex": "92afa11c2ed6baa19aa07c54f7bfe331ade19cfa669a298f7d570885c8c26d49",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-X5FZZ-I3PC7-7Y5S",
+        "status": "disqualified",
+        "gamertag": "Vaul***reX",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T07:40:27.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+          "answerGiven": "Legion",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "89077789468353002527603089397069075665726563958225675791388430753500172056635",
+        "scoreHex": "c4f03dfddb46503eb4fb69af6159edd14ec789933d0b7fb2341e7a443272f83b",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-XOAM4-AOMAI-CSJU",
+        "status": "disqualified",
+        "gamertag": "Vaul***t19",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-01T07:38:26.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+          "answerGiven": "Legion",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "59551236088175941803138423188003373997924762783951992599273837952503756709459",
+        "scoreHex": "83a8ce1fcb02a9cd1d7016fe12e7506ac8bc310e110c307c064da97daf155e53",
+        "rank": null
+      },
+      {
+        "entryCode": "VP-ZSZ5T-C75CL-BY8N",
+        "status": "disqualified",
+        "gamertag": "Vaul***t84",
+        "displayNamePublicly": false,
+        "emailHash": "3d5dc7a68fe2794684426cecad28690a1340cd1901348232b79de40b37d71635",
+        "entryTimestamp": "2025-11-02T20:48:48.000Z",
+        "location": {
+          "country": "GB",
+          "region": "England - South East"
+        },
+        "quiz": {
+          "question": "In the video game \"Postal 2\", what is the name of Postal Dude's dog?",
+          "answerGiven": "Duke",
+          "answerCorrect": false
+        },
+        "disqualificationReason": "Quiz answered incorrectly",
+        "score": "112328327606568492057024836349889065742778445393220969647065228980781417102368",
+        "scoreHex": "f85794948c125df0fc295c7b169614f41a471a1768dee8cb82da15ede885fc20",
+        "rank": null
+      }
+    ],
+    "seed": "29f0776ec286d8f645032604bdda5a07c36a9b9013080592feab5545b8cf9cbb",
+    "checksum": "8c474fdb840e004b"
+  },
+  "verification": {
+    "algorithm": "VaultPlay Draw v1.4",
+    "hashFunction": "SHA-256",
+    "emailHashFunction": "HMAC-SHA-256",
+    "sourceCode": "https://github.com/vaultplay-dev/vaultplay-draw-worker"
+  },
+  "bundleHash": "58469ed718a43676e1d7efc03ac266f873bf8dc033e146bb45e74ae62bef95b9",
+  "publication": {
+    "publishedAt": "2025-11-08T22:33:11.997Z",
+    "filePath": "live/2025-11/example-draw-audit-bundle-2025-11-08-2233/draw.json"
+  }
+}
